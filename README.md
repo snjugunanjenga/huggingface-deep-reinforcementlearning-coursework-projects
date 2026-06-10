@@ -57,6 +57,7 @@ Notebooks & models
 - See `notebooks/bonus-unit1/deeprl-training-huggy.ipynb` for bonus experiments and training examples.
 - VLM work is under `nemotron/VLM/llama_3.1_nemotron_nano_VL_8B/` — the notebook `Llama_Nemotron_VL_nano_8B.ipynb` contains model-specific experiments and notes.
 - New transformer notebooks were added under `transformers/chapter2/` (e.g., `models_pytorch.ipynb`) to illustrate model internals with PyTorch.
+	- See `transformers/chapter2/handling_multiple_sequences.ipynb` for a Colab-ready notebook on batching, padding, attention masks, and long-sequence handling.
 
 Development / Environment
 -------------------------
